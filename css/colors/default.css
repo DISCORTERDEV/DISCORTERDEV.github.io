@@ -33,3 +33,32 @@
 .main .pricing-item-inner {
 	border-color: #3a5de8;
 }
+
+.cards{
+	width: 25%;
+	background-color: white;
+	border-radius: 5px;
+	display: inline-block;
+	margin: 40px;
+	box-shadow: 2px 2px 10px black;
+}
+
+.image img{
+	width: 97%;
+	margin: 5px;
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+}
+
+.title{
+	text-align: center;
+	padding: 5px;
+}
+
+.des{
+	text-align: center;
+}
+
+.button{
+	margin: 20px;
+}
